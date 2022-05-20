@@ -1,6 +1,9 @@
 # Go Server
 A server created with go language.
-
+This project created by following "Learn Go Programming by Building 11 Projects – Full Course" by freeCodeCamp.org.
+<br />
+[CourseLink](https://www.youtube.com/watch?v=jFfo23yIWac)
+<br />
 You can build or click Go-Server.exe.
 For building:
 <br />
